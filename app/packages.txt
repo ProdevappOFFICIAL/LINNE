@@ -1,0 +1,10 @@
+Clerk
+
+npm i @clerk/nextjs
+
+Upload Thing
+
+Cloudfare
+
+Prisma
+
