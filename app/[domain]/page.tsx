@@ -1,8 +1,10 @@
 
 import React from 'react'
 
-export const Domain = () => {
+ const Domain = () => {
   return (
     <div>Domain</div>
   )
 }
+
+export default Domain;
