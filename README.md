@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/ProdevappOFFICIAL/LINNE/blob/8f8f54f07c04d13a425774e16c71dd026664803f/logo_transparent.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/ProdevappOFFICIAL/LINNE/master/logo_transparent.png"alt="Markdownify" width="200"></a>
   <br>
   LINNE STUDIO
   <br>
